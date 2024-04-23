@@ -1,0 +1,69 @@
+.Ab{
+  display: flex;
+  background-color: #fef0cf ;
+}
+
+.Ap{
+padding-top: 150px;
+text-align: left;
+color: #020101;
+font-size: 18px;
+font-family: Arial (sans-serif);
+font-style: normal;
+
+
+}
+
+.Ai{
+width: 450px }
+.Ai1{
+width: 450px; }
+.Ab1{
+  background-color: #fef0cf
+}
+
+.Ap1{
+  position: absolute;
+  color: black;
+  font-family: Arial (sans-serif);
+  font-size: 21px;
+  font-weight: 400;
+  font-style: normal;
+ 
+  padding-left: 900px;
+  bottom: -750px;
+}
+.Ap2{
+  position: absolute;
+  color: black;
+  font-family: Arial (sans-serif);
+  font-size: 21px;
+  
+  font-style: normal;
+ 
+  padding-left: 200px;
+}
+.Sp{
+  font-size: 35px;
+}
+.Ab{
+ 
+ 
+  font-family: futura book font, Sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  background-color: #fef0cf;
+  
+  border-radius: 0 0 0 0;
+}
+.Abb{
+  position: relative;
+  top: 320px;
+  left: 700px;
+  font-family: futura book font, Sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+  background-color: #fef0cf;
+  border-style: groove;
+  border-radius: 0 0 0 0;
+}

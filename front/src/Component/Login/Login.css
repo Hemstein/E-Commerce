@@ -1,0 +1,31 @@
+
+
+.for12{
+    width: 23rem;
+}
+#c1{color: #709085}
+#c12{letter-spacing: 1px}
+.ImgL1{
+    position: absolute;
+    width: 759px;
+    height: 558px;
+   
+    margin-left: 0px;
+    right: 1px;
+    
+}
+#Colo1{
+    background-color: #fef0cf;
+}
+#f321{
+ 
+}
+#v123{
+    height: 76vh!important;
+}
+.btn-info {
+    --bs-btn-bg: rgb(21, 16, 16)!important;
+    --bs-btn-hover-bg:#fef0cf!important;
+    --bs-btn-hover-color: black!important;
+    --bs-btn-color:white!important;
+}

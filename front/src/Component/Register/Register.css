@@ -1,0 +1,12 @@
+#Re1{
+    background-color: #fef0cf;
+}
+#RE12 {
+    margin-top: 0rem!important;
+    margin-bottom: 0rem!important;
+}
+.btn-primary{
+    --bs-btn-bg: rgb(21, 16, 16)!important;
+    --bs-btn-hover-bg:#fef0cf!important;
+    --bs-btn-hover-color: black!important;
+}

@@ -1,0 +1,21 @@
+/*.navbr{
+    display: flex;
+    justify-content: space-around;
+height: 65px;
+background-color: green;
+width: 100%;
+}*/
+.btn-outline-success{
+    --bs-btn-bg: rgb(21, 16, 16)!important;
+    --bs-btn-hover-bg:#fef0cf!important;
+    --bs-btn-hover-color: rgb(71, 34, 34)!important;
+    --bs-btn-color:white!important;
+}
+:root {
+    --light: #d0d1d3;
+    --dark:none!important;
+    --green: #21ce99;
+  }
+  .bg-body-tertiary{
+   background-color: #ddaa5d !important;
+  }
